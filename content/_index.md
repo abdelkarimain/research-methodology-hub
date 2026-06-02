@@ -8,8 +8,8 @@ type: home
   <h1>Research Methodology Hub</h1>
   <p class="rmh-lead">A premium documentation-style demo for organizing lorem ipsum research workflows, proposal scaffolds, collaboration rituals, and polished methodology references.</p>
   <div class="rmh-actions">
-    <a class="rmh-button rmh-button-primary" href="/docs/introduction/">Start reading</a>
-    <a class="rmh-button rmh-button-secondary" href="/docs/github-guide/">Contribution guide</a>
+    <a class="rmh-button rmh-button-primary" href="docs/introduction/">Start reading</a>
+    <a class="rmh-button rmh-button-secondary" href="docs/github-guide/">Contribution guide</a>
   </div>
   <div class="rmh-stats">
     <div><strong>12</strong><span>demo modules</span></div>

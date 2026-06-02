@@ -32,7 +32,7 @@ menu:
         type: search
       weight: 2
     - name: GitHub
-      url: https://github.com/
+      url: https://github.com/abdelkarimain
       params:
         icon: github
       weight: 3
@@ -67,3 +67,6 @@ params:
   theme:
     default: system
     displayToggle: true
+  footer:
+    displayPoweredBy: false
+    displayCopyright: false
