@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract methodology map placeholder</title>
+  <desc id="desc">A clean abstract map showing placeholder research workflow nodes.</desc>
+  <rect width="1200" height="640" fill="#f8fafc"/>
+  <rect x="64" y="56" width="1072" height="528" rx="28" fill="#ffffff" stroke="#d9e2ef"/>
+  <path d="M164 422 C270 270, 387 501, 500 306 S760 207, 870 335 1011 406, 1060 190" fill="none" stroke="#2563eb" stroke-width="8" stroke-linecap="round"/>
+  <path d="M164 470 C304 390, 402 458, 518 412 S767 422, 902 256 1032 304, 1060 272" fill="none" stroke="#0f766e" stroke-width="8" stroke-linecap="round" opacity=".85"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="112" y="128" fill="#172033" font-size="44" font-weight="700">Methodology Map</text>
+    <text x="112" y="166" fill="#667085" font-size="22">Lorem ipsum research workflow placeholder</text>
+  </g>
+  <g>
+    <circle cx="164" cy="422" r="30" fill="#dbeafe" stroke="#2563eb" stroke-width="4"/>
+    <circle cx="500" cy="306" r="30" fill="#dcfce7" stroke="#0f766e" stroke-width="4"/>
+    <circle cx="870" cy="335" r="30" fill="#fef3c7" stroke="#b45309" stroke-width="4"/>
+    <circle cx="1060" cy="190" r="30" fill="#f3e8ff" stroke="#7c3aed" stroke-width="4"/>
+  </g>
+  <g fill="#172033" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">
+    <text x="132" y="504">Frame</text>
+    <text x="456" y="242">Design</text>
+    <text x="830" y="410">Analyze</text>
+    <text x="1017" y="128">Publish</text>
+  </g>
+</svg>

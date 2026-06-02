@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Research Methodology Hub logo</title>
+  <rect x="8" y="8" width="48" height="48" rx="12" fill="#eff6ff"/>
+  <path d="M18 22 32 14l14 8v16L32 46 18 38Z" fill="none" stroke="#2563eb" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M24 25v10l8 5 8-5V25" fill="none" stroke="#0f766e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
